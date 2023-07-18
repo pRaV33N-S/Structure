@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\Structure\obj\Debug\Structure.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\Structure\bin\Debug\Structure.exe.config
+D:\Raven\Practice Exercise\C#\Structure\bin\Debug\Structure.exe
+D:\Raven\Practice Exercise\C#\Structure\bin\Debug\Structure.pdb
+D:\Raven\Practice Exercise\C#\Structure\obj\Debug\Structure.exe
+D:\Raven\Practice Exercise\C#\Structure\obj\Debug\Structure.pdb
